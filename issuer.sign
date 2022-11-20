@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "https://w3id.org/security/v1"
+  ],
+  "type": "Ed25519Signature2020",
+  "created": "2022-11-20T00:11:05Z",
+  "domain": "did.algorand.foundation",
+  "nonce": "8f436ce0b4bee2beaec237eecfaa7b23",
+  "proofPurpose": "authentication",
+  "verificationMethod": "did:algo:788baf0b-2b0b-4716-afd7-80703a0b4767#master",
+  "proofValue": "COyB8riuB3bDz26xCdBxVWf6WlAxaJuA0sUeicmt3oRvZA5TYkYTlDB9Smpnpdu9WdWUAXOlxY1MxAt7Wq0IDQ=="
+}
